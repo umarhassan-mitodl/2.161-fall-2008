@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "aafc3aa2-80b8-c590-57b7-4c2c277ce2b6",
+  "instructors": {
+    "content": [
+      "197cc182-912a-fbc2-7a49-ea4069ca6267"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8685512b-6a84-6b30-fc73-4d61ba0b02af",
+    "website": "2-161-signal-processing-continuous-and-discrete-fall-2008"
+  },
+  "course_title": "Signal Processing: Continuous and Discrete",
+  "hide_download": true,
+  "course_description": "This course provides a solid theoretical foundation for the analysis and processing of experimental data, and real-time experimental control methods. Topics covered include spectral analysis, filter design, system identification, and simulation in continuous and discrete-time domains. The emphasis is on practical problems with laboratory exercises.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.161",
+  "course_image_thumbnail": {
+    "content": "abec90e3-044d-3c59-b843-08d4ee07d1b9",
+    "website": "2-161-signal-processing-continuous-and-discrete-fall-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "site_uid": "23296cd1-f3fa-4a18-a12b-30fe7356fc64",
+  "site_short_id": "2.161-fall-2008",
+  "site_url_path": "courses/2-161-signal-processing-continuous-and-discrete-fall-2008",
+  "title": "Course Metadata"
+}
