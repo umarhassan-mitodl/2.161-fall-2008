@@ -4,8 +4,6 @@ description: Problem set on the z-transform and linear filters.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/07d55c77f741ff03786882bbcc694678_ps6.pdf
 file_size: 173158
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

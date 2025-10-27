@@ -6,8 +6,6 @@ description: Lecture notes with an introduction to signal processing. Topics inc
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/a6d15b07b9720f44e4bc2e9da4d3a5a2_lecture_01.pdf
 file_size: 206861
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

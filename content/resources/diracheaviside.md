@@ -5,8 +5,6 @@ description: Lecture handout on the Dirac delta and unit-step function, practica
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/47b02986de2f17e6993e70b000a47b59_diracheaviside.pdf
 file_size: 213751
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

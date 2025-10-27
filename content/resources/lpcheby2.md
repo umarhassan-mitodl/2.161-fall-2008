@@ -5,8 +5,6 @@ description: 'Supporting file for a lecture on continuous and discrete signal pr
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/3d368b76c41ce78dee166c069c401d12_lpcheby2.m
 file_size: 2977
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

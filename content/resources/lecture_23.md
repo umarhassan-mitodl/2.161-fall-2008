@@ -4,8 +4,6 @@ description: Lecture notes on non-parametric power spectral density estimation.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/c7d1951d44fe78ea97d0e14ea5158aee_lecture_23.pdf
 file_size: 275276
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

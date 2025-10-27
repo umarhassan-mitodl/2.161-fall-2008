@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the quizzes for the course, as well as an example
   Quiz 1 from the previous year, and the associated files for Quiz 2.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

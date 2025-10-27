@@ -4,8 +4,6 @@ description: Problem set on the discrete Fourier transform.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/339ee71cc9ab345d4e8153dbda20449d_ps5.pdf
 file_size: 147856
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

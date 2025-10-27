@@ -5,8 +5,6 @@ description: Lecture notes on poles and zeros of filter classes, the decibel, an
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/c4037fd4a6f244c39a4c4a348f91aaed_lecture_06.pdf
 file_size: 200449
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

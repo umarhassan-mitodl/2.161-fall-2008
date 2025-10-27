@@ -37,7 +37,6 @@
     "website": "2-161-signal-processing-continuous-and-discrete-fall-2008"
   },
   "course_title": "Signal Processing: Continuous and Discrete",
-  "hide_download": true,
   "course_description": "This course provides a solid theoretical foundation for the analysis and processing of experimental data, and real-time experimental control methods. Topics covered include spectral analysis, filter design, system identification, and simulation in continuous and discrete-time domains. The emphasis is on practical problems with laboratory exercises.\n",
   "department_numbers": [
     "2"
@@ -48,7 +47,6 @@
     "content": "abec90e3-044d-3c59-b843-08d4ee07d1b9",
     "website": "2-161-signal-processing-continuous-and-discrete-fall-2008"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams with Solutions",

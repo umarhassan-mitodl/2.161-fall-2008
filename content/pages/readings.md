@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of assigned readings and information
   on the course textbooks.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

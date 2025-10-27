@@ -5,8 +5,6 @@ description: Lecture notes on frequency-sampling filters and FIR filter design u
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/2707fe526c49cf42c7579c0def89108c_lecture_17.pdf
 file_size: 230778
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

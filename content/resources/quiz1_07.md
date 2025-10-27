@@ -4,8 +4,6 @@ description: Quiz on continuous and discrete signal processing.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/5aace0acf21c0be1ac30f49fb4aed862_quiz1_07.pdf
 file_size: 157450
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

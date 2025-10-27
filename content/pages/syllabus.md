@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides information on course meeting times, textbooks,
   credit and content, prerequisites, grading, course ethics, and a list of topics
   to be covered.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -5,8 +5,6 @@ description: Lecture notes on the sampling theorem and the discrete Fourier tran
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/2934569026a399e9062597924c730a78_lecture_10.pdf
 file_size: 222685
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

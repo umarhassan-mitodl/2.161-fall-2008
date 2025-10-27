@@ -3,8 +3,6 @@ content_type: page
 description: This section provides handouts on signal processing, including MATLAB
   examples where appropriate. The MATLAB scripts are also listed separately after
   each handout.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

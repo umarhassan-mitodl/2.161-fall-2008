@@ -5,8 +5,6 @@ description: Supporting MATLAB file for a problem set on continuous and discrete
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/a1508cbade7adbb4c77c1548b6ef4baa_BlurredImage2.mat
 file_size: 6455553
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

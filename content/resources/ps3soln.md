@@ -4,8 +4,6 @@ description: Solutions to a problem set on analog Filter design.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/545aba7a8ed9f100d972047456b66de0_ps3soln.pdf
 file_size: 178530
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

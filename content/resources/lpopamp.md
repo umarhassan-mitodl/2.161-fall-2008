@@ -5,8 +5,6 @@ description: "Lecture handout on op-amp implementation of analog filters, state-
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/cce7e9ece3e590e44b219324706e3de9_lpopamp.pdf
 file_size: 245194
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

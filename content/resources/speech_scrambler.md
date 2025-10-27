@@ -5,8 +5,6 @@ description: 'Supporting MATLAB file for a problem set on continuous and discret
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4d21435d5dd3ea811cc01c0e585915c1_Speech_Scrambler.zip
 file_size: 735332
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Problem set on convolution and Fourier transforms.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/0308f5dcf805cc5e599e9957a3057999_ps1.pdf
 file_size: 161915
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

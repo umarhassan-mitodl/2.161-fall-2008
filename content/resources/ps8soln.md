@@ -4,8 +4,6 @@ description: Solutions to a problem set on FIR linear filters.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/05a994ea308ff0085c0f664e685f5583_ps8soln.pdf
 file_size: 620059
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

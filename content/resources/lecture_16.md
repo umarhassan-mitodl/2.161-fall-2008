@@ -5,8 +5,6 @@ description: Lecture notes on FIR low-pass filter design by windowing, window FI
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/b1566013ede775cece0ecb8f1bf945bb_lecture_16.pdf
 file_size: 336057
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

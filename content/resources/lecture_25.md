@@ -4,8 +4,6 @@ description: Lecture notes on adaptive filtering.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/87d4cdc2d6bdc678079a8f07df21c562_lecture_25.pdf
 file_size: 728070
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

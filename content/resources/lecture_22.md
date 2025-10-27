@@ -5,8 +5,6 @@ description: Lecture notes on the correlation functions, linear system input/out
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/5af5cf66ca3148b1ef0c6d94284a3382_lecture_22.pdf
 file_size: 221667
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

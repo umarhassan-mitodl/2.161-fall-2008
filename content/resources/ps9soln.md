@@ -4,8 +4,6 @@ description: Solutions to a problem set on continuous and discrete signal proces
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/89899ae02df4a1db18f56751e2d81fe2_ps9soln.pdf
 file_size: 329823
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

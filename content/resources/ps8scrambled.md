@@ -4,8 +4,6 @@ description: Supporting file for a problem set on continuous and discrete signal
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/3c329c2617183ea9e41c5ee0553861da_PS8Scrambled.wav
 file_size: 188040
 file_type: audio/x-wav
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
